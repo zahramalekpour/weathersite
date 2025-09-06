@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>weather app</title>
+    <link rel="stylesheet" href="./style/style.css">
+</head>
+<body>
+    <div id="search"> 
+    <img src="./img/location.png" alt="location-icon" id="location">
+    <input type="text" placeholder="enter the name of the city">
+    <button> search</button>
+    </div>
+    <div id="weather"> <span id="loader"> </span> </div>
+    <div id="forecast"></div>
+    <div id="modal">
+        <div> 
+            <div> <span id="modal-button">X</span></div>
+            <div> <p> </p></div>
+        </div>
+    </div>
+
+
+
+
+
+    <script src="./app.js" type="module"></script>
+    <script src="./utiles/HttpReq.js" ></script>
+</body>
+</html>
