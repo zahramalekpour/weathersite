@@ -28,7 +28,5 @@
 ---
 
 ## 📸 اسکرین‌شات
-![weather site Screenshot](./images/Capture.PNG)
-(./images/Capture2.PNG)
-(./images/Capture3.PNG)
+![weather site Screenshot](./images/Capture.PNG)(images/Capture2.PNG)git(images/Capture3.PNG)
 
